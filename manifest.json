@@ -1,0 +1,19 @@
+{
+  "name": "TAX CALC ⚡ 消費税計算機",
+  "short_name": "税計算",
+  "description": "消費税の税込み・税抜き計算アプリ。8%・10%対応。ブルタリズムデザイン。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFBEB",
+  "theme_color": "#FF006E",
+  "orientation": "any",
+  "categories": ["utilities", "finance"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
